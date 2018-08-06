@@ -1,0 +1,43 @@
+
+header {
+    background-color: black
+}
+
+footer {
+    background-color: black
+}
+
+.center {
+    margin-left: 300px;
+    margin-right: auto;
+    width: 30%
+}
+
+body {
+    background-color: bisque
+}
+
+h2 {
+    font-family: "Trebuchet MS"
+}
+
+.FontFamily {
+    font-family: Verdana;
+  }
+
+.collapsible {
+    cursor: pointer; 
+    width: 100%;   
+  }
+
+.active, .collapsible:hover {
+    background-color: #ccc;
+  }
+
+.content {
+    display: none;
+    font-family: Verdana;   
+  }
+
+
+ 
